@@ -1,4 +1,4 @@
-# 💡 Design Pattern: Simple Factory (Java)
+# 💡 Design Pattern: Factory Method (Java)
 
 Este repositório demonstra a aplicação do padrão de projeto Factory Method com um exemplo de sistema de notificações utilizando Java puro.
 
